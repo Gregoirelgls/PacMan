@@ -1,0 +1,6 @@
+echo "# PacMan" >> Avancement.md
+git init
+git add Avancement.md
+git commit -m "first commit"
+git remote add origin https://github.com/Gregoirelgls/PacMan.git
+git push -u origin master
